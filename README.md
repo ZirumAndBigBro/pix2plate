@@ -1,5 +1,7 @@
 # pix2plate
 
+Python script to build in Aion on the basis of the existing game objects 
+
 this file converst pixel (black) position from Sample.bmp file to npc coordinates (result.txt) for AION online game.
 example result in result.txt
 <spot h="85" z="119.1266" y="1546.7086" x="1613.4429"/>
