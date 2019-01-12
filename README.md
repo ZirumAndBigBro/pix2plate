@@ -10,3 +10,5 @@ for integration in \AC-Game\data\static_data\spawns\Npcs\New\location.xml file.
 1. Modificate Sample.bmp in paint. Note: python needs only black pixels.
 2. Put coordinates from your bottem left start point and item size in pix2plate.py and run it.
 3. copy coordinates from result.txt and put it in \AC-Game\data\static_data\spawns\Npcs\New\location.xml file.
+
+See Example_pix2plate.jpg
